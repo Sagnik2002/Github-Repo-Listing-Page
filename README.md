@@ -2,7 +2,7 @@
 
 Challenge outline: Github Repositories listing page
 
-![NoteDrop Home Page](https://i.imgur.com/5nngZgr.png)
+
 
 ## Prerequisites
 
